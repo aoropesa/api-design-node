@@ -34,3 +34,9 @@
 ' PUT - /lions:id' - Update one lion based on its id.
 5. Delete a lion record
 ' DELETE -/lions:id' - Delete one lion based on its id.
+
+### Git branching for lions
+1. git checkout -b lions-1
+2. git -A
+3. git commit -m "message"
+4. git status => clean
